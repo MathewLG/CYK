@@ -1,0 +1,7 @@
+S
+( )
+S A B C
+S AB AC SS
+C SB
+A (
+B )
